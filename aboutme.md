@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ian Sturgill. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a PhD candidate in the UNC Bioinformatics and Computational Biology program under the joint supervision of Katherine Hoadley and Jesse Raab, expecting to graduate in December 2024. 
 
-What else do you need?
+I have over 10 years of academic research experience spanning a range of subfields including: 
 
-### My story
+- "Big data" bioinformatics (e.g., [The Cancer Genome Atlas](https://www.cancer.gov/ccg/research/genome-sequencing/tcga))
+- Cancer genomics
+- Immunology
+- Microbial genetics
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can follow my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MSiJ16UAAAAJ) page to view previous publications or connect with me on [LinkedIn](https://www.linkedin.com/in/ian-sturgill).
