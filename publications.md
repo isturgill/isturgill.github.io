@@ -3,6 +3,9 @@ layout: page
 title: Publications
 subtitle: List of authored research works
 ---
+
+Click on an abstract to view the description for the study.
+
 1.	**Sturgill IR**, Raab JR, Hoadley KA. Expanded detection and impact of _BAP1_ alterations in cancer. _NAR Cancer_. 2024 Oct 3;6(4):zcae045.
     <details>
       
