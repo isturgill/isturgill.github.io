@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Publications
 subtitle: List of authored research works
