@@ -8,7 +8,7 @@ subtitle: List of authored research works
 
 2.	Cruz SM, Iranpur KR, Judge SJ, Ames E, **Sturgill IR**, Farley LE, et al. Low-Dose Sorafenib Promotes Cancer Stem Cell Expansion and Accelerated Tumor Progression in Soft Tissue Sarcomas. _Int J Mol Sci_. 2024 Jan;25(6):3351. 
 
-3.	Gingrich AA, Reiter TE, Judge SJ, York D, Yanagisawa M, Razmara A, **Sturgill IR**, et al. Comparative Immunogenomics of Canine Natural Killer Cells as Immunotherapy Target. _Front Immunol_ [Internet]. 2021 Sep 14 [cited 2024 Nov 17];12. Available from: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2021.670309/full
+3.	Gingrich AA, Reiter TE, Judge SJ, York D, Yanagisawa M, Razmara A, **Sturgill IR**, et al. Comparative Immunogenomics of Canine Natural Killer Cells as Immunotherapy Target. _Front Immunol_. 2021 Sep 14;12. 
 
 4.	Khuat LT, Le CT, Pai CCS, Shields-Cutler RR, Holtan SG, Rashidi A, Parker SL, Knights D, Luna JI, Dunai C, Wang Z, **Sturgill IR**, et al. Obesity induces gut microbiota alterations and augments acute graft-versus-host disease after allogeneic stem cell transplantation. _Sci Transl Med_. 2020 Nov 25;12(571):eaay7713. 
 
