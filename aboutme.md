@@ -5,7 +5,7 @@ title: About Me
 
 Hi, my name is Ian Sturgill. 
 
-I'm a PhD candidate in the UNC Bioinformatics and Computational Biology program under the joint supervision of Katherine Hoadley and Jesse Raab, expecting to graduate in December 2024. 
+I'm a PhD candidate in the UNC Bioinformatics and Computational Biology program under the joint supervision of Katherine Hoadley and Jesse Raab, and have completed all program requirements to graduate in December 2024. 
 
 I have over 10 years of academic research experience spanning a range of subfields including: 
 
@@ -17,7 +17,7 @@ I have over 10 years of academic research experience spanning a range of subfiel
 
 Other professional areas of interest include:
 - Data science
-- Language learning (currently pursuing C/C++ and TypeScript)
+- Language learning (proficient with R and Python; currently pursuing C/C++ and TypeScript)
 - Machine learning and statistics
 - Software tool and pipeline development
 
