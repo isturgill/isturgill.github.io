@@ -17,6 +17,7 @@ I have over 10 years of academic research experience spanning a range of subfiel
 
 Other professional areas of interest include:
 - Data science
+- Language learning (currently pursuing C/C++ and TypeScript)
 - Machine learning and statistics
 - Software tool and pipeline development
 
