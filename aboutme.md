@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hi, my name is Ian Sturgill. 
+Hi, I'm Ian Sturgill. 
 
 I'm a PhD candidate in the UNC Bioinformatics and Computational Biology program under the joint supervision of Katherine Hoadley and Jesse Raab. I have recently completed all program requirements and will graduate in December 2024. 
 
