@@ -5,7 +5,7 @@ title: About Me
 
 Hi, I'm Ian Sturgill. 
 
-PhD-trained Bioinformatics Scientist from UNC Chapel Hill. Expertise in developing and orchestrating Nextflow-based pipelines for NGS (WES/RNA-seq) and integrated multi-omics analysis to deliver actionable insights in both academic and industry settings.
+I'm a PhD-trained Bioinformatics Scientist from UNC Chapel Hill. Expertise in developing and orchestrating Nextflow-based pipelines for NGS (WES/RNA-seq) and integrated multi-omics analysis to deliver actionable insights in both academic and industry settings.
 
 I have 12 years of academic research experience spanning a broader range of topics including: 
 
